@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+    </qresource>
+    <qresource prefix="/Images">
+        <file alias="CzechFlag">Img/CzechFlag_resized.jpg</file>
+        <file alias="EuroFlag">Img/EuroFlag_resized.jpg</file>
+        <file alias="PolishFlag">Img/PolishFlag_resized.jpg</file>
+        <file alias="UsaFlag">Img/UsaFlag_resized.jpg</file>
+    </qresource>
+</RCC>
